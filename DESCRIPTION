@@ -1,0 +1,16 @@
+Package: ynabr
+Title: Access the You Need A Budget API
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jeffrey",
+           family = "Hollister",
+           role = c("aut", "cre"),
+           email = "jeff.w.hollister@gmail.com",
+           comment = c(ORCID = "0000-0002-9254-9740"))
+Description: You Need A Budget (YNAB) is budgeting software and this package 
+             provides access to the YNAB API.  The likely use case is for users
+             wanting to augment the YNAB reports and graphs with custom 
+             generated ones.  
+License: MIT
+Encoding: UTF-8
+LazyData: true
